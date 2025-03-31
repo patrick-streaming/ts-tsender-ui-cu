@@ -20,6 +20,9 @@ importers:
       next:
         specifier: 15.2.4
         version: 15.2.4(@playwright/test@1.51.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      playwright:
+        specifier: ^1.51.1
+        version: 1.51.1
       react:
         specifier: ^19.0.0
         version: 19.0.0
